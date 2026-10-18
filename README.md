@@ -1,3 +1,4 @@
+<img width="932" height="534" alt="Samsung Supply Chain   Logistics Dashboard image" src="https://github.com/user-attachments/assets/62dd9fe8-2b63-4d5e-b09b-8a3473f76dd8" />
 # Samsung Supply Chain & Logistics Dashboard
 
 ## Project Overview
